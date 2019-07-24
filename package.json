@@ -1,8 +1,7 @@
 {
   "name": "koa-mid",
   "description": "Common Koa middlewares",
-  "version": "0.9.0",
-  "private": true,
+  "version": "1.0.0",
   "author": {
     "email": "zac@zacanger.com",
     "name": "Zac Anger",
