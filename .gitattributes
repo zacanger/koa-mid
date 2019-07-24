@@ -6,5 +6,3 @@ text eol=lf
 *.PDF diff=astextplain
 
 package-lock.json -diff
-
-*.js linguist-language=TypeScript
