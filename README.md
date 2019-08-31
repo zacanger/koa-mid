@@ -17,4 +17,5 @@ const app = new Koa()
 app.use(mid)
 // the rest of your server
 ```
-[License (MIT)](./LICENSE.md)
+
+[LICENSE](./LICENSE.md)
