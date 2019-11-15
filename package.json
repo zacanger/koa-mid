@@ -30,7 +30,7 @@
     "koa-lowercase": "2.0.4"
   },
   "devDependencies": {
-    "sortpack": "2.0.3",
+    "sortpack": "2.0.4",
     "standard": "14.3.1"
   },
   "engines": {
