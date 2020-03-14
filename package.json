@@ -1,11 +1,15 @@
 {
   "name": "koa-mid",
   "description": "Common Koa middlewares",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "author": {
     "email": "zac@zacanger.com",
     "name": "Zac Anger",
     "url": "http://zacanger.com"
+  },
+  "funding": {
+    "type": "ko-fi",
+    "url": "https://ko-fi.com/zacanger"
   },
   "license": "LGPL-3.0",
   "main": "index.js",
@@ -35,9 +39,5 @@
   },
   "engines": {
     "node": ">=10.10.0"
-  },
-  "funding": {
-    "type": "ko-fi",
-    "url": "https://ko-fi.com/zacanger"
   }
 }
