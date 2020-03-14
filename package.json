@@ -27,10 +27,10 @@
     "koa-compress": "3.0.0",
     "koa-cookie": "1.0.0",
     "koa-helmet": "5.2.0",
-    "koa-lowercase": "2.0.4"
+    "koa-lowercase": "2.0.6"
   },
   "devDependencies": {
-    "sortpack": "2.0.4",
+    "sortpack": "2.1.2",
     "standard": "14.3.1"
   },
   "engines": {
