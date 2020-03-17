@@ -5,6 +5,7 @@ const cookieParser = require('koa-cookie').default
 const helmet = require('koa-helmet')
 const lowercase = require('koa-lowercase')
 
+// eslint-disable-next-line fp/no-mutation
 module.exports = compose([
   bodyParser(),
   cookieParser(),
@@ -12,5 +13,5 @@ module.exports = compose([
   helmet.referrerPolicy({ policy: 'same-origin' }),
   helmet.hsts({ maxAge: 31536000, preload: true, includeSubDomains: true }),
   compress(),
-  lowercase
+  lowercase,
 ])
