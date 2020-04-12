@@ -28,20 +28,20 @@
     "boilerplate"
   ],
   "dependencies": {
-    "koa-bodyparser": "4.2.1",
+    "koa-bodyparser": "4.3.0",
     "koa-compose": "4.1.0",
     "koa-compress": "3.0.0",
     "koa-cookie": "1.0.0",
     "koa-helmet": "5.2.0",
-    "koa-lowercase": "2.0.6"
+    "koa-lowercase": "2.0.7"
   },
   "devDependencies": {
     "eslint": "6.8.0",
-    "eslint-plugin-zacanger": "1.1.3",
-    "husky": "4.2.3",
-    "lint-staged": "10.0.8",
-    "prettier": "1.19.1",
-    "sortpack": "2.1.2"
+    "eslint-plugin-zacanger": "1.1.4",
+    "husky": "4.2.5",
+    "lint-staged": "10.1.3",
+    "prettier": "2.0.4",
+    "sortpack": "2.1.4"
   },
   "typings": "./koa-mid.d.ts",
   "engines": {
