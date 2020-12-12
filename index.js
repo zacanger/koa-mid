@@ -11,7 +11,7 @@ module.exports = compose([
   cookieParser(),
   helmet(),
   helmet.referrerPolicy({ policy: 'same-origin' }),
-  helmet.hsts({ maxAge: 31536000, preload: true, includeSubDomains: true }),
+  helmet.hsts({ maxAge: 31_536_000, preload: true, includeSubDomains: true }),
   compress(),
   lowercase,
 ])
